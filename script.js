@@ -96,7 +96,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 3:
            
-            document.getElementById('noBtn').innerHTML = '¿Eres mi pami?';
+            document.getElementById('noBtn').innerHTML = '¿Eres mi lidani?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
